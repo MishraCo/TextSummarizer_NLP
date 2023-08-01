@@ -1,7 +1,7 @@
 # Text Summarizer
 This repository contains three different techniques for text summarization: Extractive, Abstractive, and BART-based Abstractive summarization. To learn more about these techniques, refer to the following articles:
 
-
+- Shweta
 - [Introduction to Text Summarization](https://medium.com/@catplotlib/in-the-field-of-natural-language-processing-nlp-summarization-plays-a-crucial-role-in-reducing-519af0432d96)
 - [Revolutionizing Text Summarization with Abstractive Techniques](https://medium.com/@catplotlib/revolutionizing-text-summarization-with-abstractive-techniques-a-deep-dive-into-abstractive-14014bd54a00)
 
